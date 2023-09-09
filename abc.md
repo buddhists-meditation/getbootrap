@@ -1,3 +1,8 @@
+---
+layout: page
+title: Bootstrap 4 Github Pages
+---
+
 # CHÁNH NIỆM QUA 16 ĐỀ MỤC HƠI THỞ
 
 Nội dung:
